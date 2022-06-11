@@ -1,0 +1,4 @@
+pyfolio==0.8.0
+zipline==1.2.0
+empyrical==0.4.2
+pathlib==1.0.1

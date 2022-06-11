@@ -1,0 +1,20 @@
+Entire data start date: 2008-08-27
+Entire data end date: 2018-08-20
+In-sample months: 107
+Out-of-sample months: 12
+                        All In-sample Out-of-sample
+Annual return         24.2%     22.9%         36.8%
+Cumulative returns   768.6%    534.9%         36.8%
+Annual volatility     29.7%     30.5%         21.5%
+Sharpe ratio           0.88      0.83          1.56
+Calmar ratio           0.44      0.41          2.74
+Stability              0.88      0.85          0.72
+Max drawdown         -55.2%    -55.2%        -13.4%
+Omega ratio            1.18      1.17          1.32
+Sortino ratio          1.29      1.21          2.53
+Skew                  -0.16     -0.18          0.50
+Kurtosis               8.39      8.26          2.43
+Tail ratio             1.09      1.09          0.96
+Daily value at risk   -3.6%     -3.7%         -2.6%
+Alpha                 -0.00     -0.00          0.00
+Beta                   1.00      1.00          1.00

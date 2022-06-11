@@ -1,0 +1,49 @@
+[I 20:48:10.905 LabApp] Copying /home/ubuntu/.ipython/profile_default/ipython_nbconvert_config.py -> /home/ubuntu/.jupyter/jupyter_nbconvert_config.py
+[I 20:48:10.912 LabApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 20:48:11.724 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 20:48:11.740 LabApp] Loading IPython parallel extension
+[I 20:48:13.354 LabApp] jupyter_tensorboard extension loaded.
+[I 20:48:13.358 LabApp] JupyterLab extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
+[I 20:48:13.358 LabApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
+[W 20:48:13.361 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 20:48:13.363 LabApp] JupyterLab extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
+[I 20:48:13.363 LabApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
+[I 20:48:13.364 LabApp] Serving notebooks from local directory: /
+[I 20:48:13.364 LabApp] The Jupyter Notebook is running at:
+[I 20:48:13.364 LabApp] http://(domino-run-5d950c844cedfd0008f0d248 or 127.0.0.1):8888/
+[I 20:48:13.364 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:48:13.816 LabApp] 302 GET / (10.0.242.198) 0.73ms
+[I 20:48:17.042 LabApp] 302 GET / (10.0.242.198) 0.63ms
+[I 20:48:17.165 LabApp] 302 GET / (10.0.242.198) 0.67ms
+[I 20:48:17.422 LabApp] 302 GET / (10.0.241.53) 0.51ms
+[I 20:48:21.962 LabApp] Node v8.10.0
+    
+[I 20:48:21.973 LabApp] Build is up to date
+[W 20:48:21.975 LabApp] 404 GET /lab/api/workspaces/lab?1570049301674 (10.0.242.198): Workspace 'lab' ('lab-a511') not found
+[W 20:48:21.975 LabApp] Workspace 'lab' ('lab-a511') not found
+[W 20:48:21.975 LabApp] 404 GET /lab/api/workspaces/lab?1570049301674 (10.0.242.198) 1.51ms referer=https://5d950c844cedfd0008f0d248-workspace.try.dominodatalab.com/lab/tree/mnt?
+[I 20:58:57.350 LabApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 20:58:57.351 LabApp] Notebook mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb is not trusted
+[I 20:58:57.708 LabApp] Kernel started: 251776fd-95d1-4493-80ff-fe43d20e6a30
+[I 20:58:58.884 LabApp] Adapting to protocol v5.1 for kernel 251776fd-95d1-4493-80ff-fe43d20e6a30
+[I 20:58:59.039 LabApp] Adapting to protocol v5.1 for kernel 251776fd-95d1-4493-80ff-fe43d20e6a30
+[I 21:00:57.636 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb
+[W 21:00:57.637 LabApp] Notebook mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb is not trusted
+[I 21:02:57.849 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb
+[W 21:02:57.849 LabApp] Notebook mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb is not trusted
+[I 21:04:57.986 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb
+[W 21:04:57.986 LabApp] Notebook mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb is not trusted
+[I 21:06:58.178 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb
+[W 21:06:58.179 LabApp] Notebook mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb is not trusted
+[I 21:08:58.356 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb
+[W 21:08:58.356 LabApp] Notebook mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb is not trusted
+[I 21:10:38.546 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb
+[W 21:10:44.578 LabApp] Notebook mnt/deliver/2018-04-13-jm-single-stock-tear-sheet.ipynb is not trusted
+[I 21:10:45.622 LabApp] Kernel started: 79ac80b7-4d89-488c-ab64-53e7f02ebaba
+[I 21:10:46.756 LabApp] Adapting to protocol v5.1 for kernel 79ac80b7-4d89-488c-ab64-53e7f02ebaba
+[I 21:12:45.440 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-single-stock-tear-sheet.ipynb
+[W 21:12:45.440 LabApp] Notebook mnt/deliver/2018-04-13-jm-single-stock-tear-sheet.ipynb is not trusted
+[I 21:14:45.785 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-single-stock-tear-sheet.ipynb
+[W 21:14:45.785 LabApp] Notebook mnt/deliver/2018-04-13-jm-single-stock-tear-sheet.ipynb is not trusted
+[I 21:16:16.516 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-single-stock-tear-sheet.ipynb
+[I 21:16:25.694 LabApp] Saving file at /mnt/deliver/2018-04-13-jm-clean-yahoo-pricing-data.ipynb
